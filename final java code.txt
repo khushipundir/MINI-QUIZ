@@ -116,6 +116,8 @@ class QUIZ extends JFrame implements ActionListener
             System.exit(0);  
         }  
     }  
+    
+    /*Questions of Quiz*/
     void set()  
     {  
         jb[4].setSelected(true);  
